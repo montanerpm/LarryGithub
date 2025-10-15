@@ -2,5 +2,5 @@
 
 Esta serie de libros cuenta la historia de un hacker de los que hay pocos.
 
-**Marc Montane**, Git lover.
+**Marc Montane**, Git & Larry Plotter lover
 
